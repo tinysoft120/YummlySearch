@@ -20,7 +20,7 @@ Android Studio Chipmunk | 2021.2.1 Patch 1
 
 ## Screenshots
 ### Search Screen
-| <img src="screenshots/Portrait_Home.png" width="200"/> | <img src="screenshots/Landscape_Home.png" width="200"/> | <img src="screenshots/Landscape_Dark_Home.png" width="200"/> |
+| <img src="screenshots/Portrait_Home.png" width="200"/> | <img src="screenshots/Landscape_Home.png" width="300"/> | <img src="screenshots/Portrait_Dark_Home.png" width="200"/> |
 |:---:|:---:|:---:|
 |Portrait Search| Landscape Search | Dark Mode|
 
