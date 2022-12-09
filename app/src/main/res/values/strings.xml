@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Yummly Search</string>
+    <string name="no_results">No results</string>
+    <string name="action_search">Search</string>
+    <string name="transition_yummly_image" translatable="false">yummly_image_transition</string>
+    <string name="label_ingredients">Ingredients</string>
+    <string name="label_total_calories">Total Calories</string>
+    <string name="label_total_time">Total Time</string>
+</resources>
