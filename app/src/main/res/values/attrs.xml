@@ -3,4 +3,5 @@
     <attr name="roundSelector" format="reference" />
     <attr name="rectSelector" format="reference" />
     <attr name="toolbarPopupTheme" format="reference" />
+    <attr name="canvasColor" format="color"/>
 </resources>

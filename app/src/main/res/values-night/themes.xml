@@ -19,5 +19,6 @@
         <item name="toolbarPopupTheme">@style/ThemeOverlay.MaterialComponents.Dark.ActionBar</item>
         <item name="roundSelector">@drawable/round_selector</item>
         <item name="rectSelector">@drawable/rect_selector</item>
+        <item name="canvasColor">@color/black</item>
     </style>
 </resources>
